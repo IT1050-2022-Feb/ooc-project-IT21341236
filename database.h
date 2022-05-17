@@ -1,5 +1,6 @@
 //DataBase
 //it21328916
+
 database.h
 #include <cstring>
 
