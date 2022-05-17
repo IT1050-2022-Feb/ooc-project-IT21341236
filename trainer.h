@@ -4,8 +4,6 @@
 #include “reguser.h”
 #include “shedule.h
 
-
-
 class Trainer {
     Administrator* admin[1];
     Package* pack[1];
