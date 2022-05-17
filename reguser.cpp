@@ -22,3 +22,4 @@ void RegUser::updateprofile() {
 RegUser::~RegUser() {
     cout << "register user delete" << endl;
 }
+
