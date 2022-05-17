@@ -13,6 +13,5 @@ public:
     void logout();
     void updateprofile();
     ~RegUser();
-
 };
 
