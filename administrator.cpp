@@ -21,3 +21,4 @@ Administrator::~Administrator() {
     cout << "administrator delete" << endl;
 
 }
+
