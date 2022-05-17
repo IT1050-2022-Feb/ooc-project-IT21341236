@@ -16,3 +16,4 @@ bool Paypal::authorized() {
 Paypal::~Paypal() {
     cout << "Paypal delete" << endl;
 }
+
