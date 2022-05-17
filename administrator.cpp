@@ -6,6 +6,7 @@ Administrator::Administrator(int aid, char ana[], char aemail[]) {
     adminid = aid;
     strcpy(adminname, ana);
     strcpy(adminemail, aemail);
+
 }
 void Administrator::updatePackages() {
 
@@ -20,4 +21,3 @@ Administrator::~Administrator() {
     cout << "administrator delete" << endl;
 
 }
-
